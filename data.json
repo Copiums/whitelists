@@ -6,7 +6,7 @@
     ],
     "Private": [
         {"userid": "4692991274", "tag": "VAPE OWNER", "color": "red"},
-        {"userid": "4971874625", "tag": "VAPE OWNER\ud83d\udc9c", "color": "purple", "chattags": ["Tag1", "Tag2"]}
+        {"userid": "4971874625", "tag": "VAPE OWNER\ud83d\udc9c", "color": "purple"}
     ],
     "God": [
         {"id": "4971874625"}
