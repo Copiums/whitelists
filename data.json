@@ -1,32 +1,44 @@
 {
     "Dev": [
-        {"id": "4692991274", "chattags": {
-            "Tags": [
-                {"TagText": "VAPE PRIVATE", "TagColor": {"r": 127, "g": 0, "b": 255}}
-            ],
-            "NameColor": {"r": 0, "g": 0, "b": 255}
-        }}
+        {
+            "id": "4692991274",
+            "chattags": {
+                "Tags": [
+                    {"TagText": "VAPE DEVELOPER", "TagColor": {"r": 255, "g": 80, "b": 80}}
+                ],
+                "NameColor": {"r": 255, "g": 80, "b": 80}
+            }
+        }
     ],
     "Private": [
-        {"userid": "4692991274", "chattags": {
-            "Tags": [
-                {"TagText": "VAPE DEVELOPER", "TagColor": {"r": 255, "g": 80, "b": 80}}
-            ],
-            "NameColor": {"r": 255, "g": 80, "b": 80}
-        }},
-        {"userid": "4971874625", "chattags": {
-            "Tags": [
-                {"TagText": "SpecialTag", "TagColor": {"r": 255, "g": 0, "b": 255}}
-            ],
-            "NameColor": {"r": 0, "g": 255, "b": 255}
-        }}
+        {
+            "userid": "4692991274",
+            "chattags": {
+                "Tags": [
+                    {"TagText": "VAPE DEVELOPER", "TagColor": {"r": 255, "g": 80, "b": 80}}
+                ],
+                "NameColor": {"r": 255, "g": 80, "b": 80}
+            }
+        },
+        {
+            "userid": "4971874625",
+            "chattags": {
+                "Tags": [
+                    {"TagText": "VAPE DEVELOPER", "TagColor": {"r": 255, "g": 80, "b": 80}}
+                ],
+                "NameColor": {"r": 255, "g": 80, "b": 80}
+            }
+        }
     ],
     "God": [
-        {"id": "4971874625", "chattags": {
-            "Tags": [
-                {"TagText": "GodTag", "TagColor": {"r": 255, "g": 0, "b": 0}}
-            ],
-            "NameColor": {"r": 255, "g": 0, "b": 0}
-        }}
+        {
+            "id": "4971874625",
+            "chattags": {
+                "Tags": [
+                    {"TagText": "VAPE DEVELOPER", "TagColor": {"r": 255, "g": 80, "b": 80}}
+                ],
+                "NameColor": {"r": 255, "g": 80, "b": 80}
+            }
+        }
     ]
 }
