@@ -1,12 +1,12 @@
 {
     "Dev": [
         {
-            "id": "4692991274",
+            "userid": "4692991274",
             "chattags": {
+                "NameColor": {"r": 255, "g": 80, "b": 80},
                 "Tags": [
                     {"TagText": "VAPE DEVELOPER", "TagColor": {"r": 255, "g": 80, "b": 80}}
-                ],
-                "NameColor": {"r": 255, "g": 80, "b": 80}
+                ]
             }
         }
     ],
@@ -14,30 +14,30 @@
         {
             "userid": "4692991274",
             "chattags": {
+                "NameColor": {"r": 255, "g": 80, "b": 80},
                 "Tags": [
                     {"TagText": "VAPE DEVELOPER", "TagColor": {"r": 255, "g": 80, "b": 80}}
-                ],
-                "NameColor": {"r": 255, "g": 80, "b": 80}
+                ]
             }
         },
         {
             "userid": "4971874625",
             "chattags": {
+                "NameColor": {"r": 255, "g": 80, "b": 80},
                 "Tags": [
                     {"TagText": "VAPE DEVELOPER", "TagColor": {"r": 255, "g": 80, "b": 80}}
-                ],
-                "NameColor": {"r": 255, "g": 80, "b": 80}
+                ]
             }
         }
     ],
     "God": [
         {
-            "id": "4971874625",
+            "userid": "4971874625",
             "chattags": {
+                "NameColor": {"r": 255, "g": 80, "b": 80},
                 "Tags": [
                     {"TagText": "VAPE DEVELOPER", "TagColor": {"r": 255, "g": 80, "b": 80}}
-                ],
-                "NameColor": {"r": 255, "g": 80, "b": 80}
+                ]
             }
         }
     ]
